@@ -1,2 +1,3 @@
 # Notorious2.0
-notorious but better by @K1llb0t
+it supposed to be a leak but @K1llb0t allow me to make it public
+and yes its better

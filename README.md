@@ -12,5 +12,8 @@ And also client WILL be getting some updates soon!
 *side message to gerald0mc: i asked u if i can code notorious 2.0.0
 
 
+IF ANYONE WANTS UPDATES GO AND VIST MY REPO ( @K1llb0t )
+
+
 
 ![client](https://user-images.githubusercontent.com/78656895/145986554-2b6d2568-1912-49ff-a40e-7920840afa5e.png)
